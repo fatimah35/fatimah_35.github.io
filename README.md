@@ -4,14 +4,14 @@
 
 # Table of Contents
 ## - Introduction
-##- Project overview
-##- Analysis tools
-##- Data acquisition
-##- Data cleaning and validation
-##- Data analysis
-##-  Key findings
-##- Recommendations
-##- Conclusions
+## - Project overview
+## - Analysis tools
+## - Data acquisition
+## - Data cleaning and validation
+## - Data analysis
+## -  Key findings
+## - Recommendations
+## - Conclusions
 
 
 
