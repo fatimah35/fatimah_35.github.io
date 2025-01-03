@@ -17,7 +17,7 @@
 This report analyses a financial consumer complaints dataset to uncover insights into the types of complaints received, the timeliness of company responses, and patterns in consumer dispute resolutions.
 # Project Overview
 This report provides insights into complaint trends, company performance, and areas for improvement. The dataset consists of the following columns:
-## Response Days: Time taken by the company to respond to a complaint.
+## Response Days - Time taken by the company to respond to a complaint.
 ## Products: Financial products involved in the complaints.
 ## Issues: Types of issues raised by consumers.
 ## Countries: Geographic locations where complaints originated.
