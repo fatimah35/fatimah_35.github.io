@@ -33,7 +33,7 @@ This report provides insights into complaint trends, company performance, and ar
 #### •	Microsoft Excel: Employed for advanced data cleaning and transformation
 
 #### •	Power BI: DAX was utilized for creating custom calculations and metrics to derive deeper insights, bi was used for reporting and dashboard creation to visualize trends and performance metrics.
-# Data Acquisition: data was extracted online.
+# Data Acquisition: data was extracted on kaggle.
 ![Image](https://github.com/user-attachments/assets/a64a73ef-5f68-46bc-a085-8ffa96959bed)
 # Data Cleaning and Validation
 To ensure accuracy and reliability of the dataset, missing values were checked. 3% of the dataset were missing, the missing values in the country column were replaced with others, empty entries in columns were replaced with N/A. Also, columns that were unnecessary for the analysis were removed, duplicate entries were removed and the date column was also checked to ensure the issues were recorded between 2011- 2020.
